@@ -1,5 +1,5 @@
 body {
-    background-color: #636363;
+    background-color: #000;
     color: aliceblue;
 }
 .header {
@@ -63,6 +63,7 @@ body {
     color: #00d9ff;
 }
 /* .foto {
+
     background-image: url(./foto/Meet\ Polls_large.png);
     width: 9000px;
     background-repeat: no-repeat;
@@ -70,3 +71,117 @@ body {
     background-size: 60;
     height: 500px;
 } */
+
+.second_part {
+    background-color: #4d4d4dd6;
+    width: 100%;
+    height: 550px;
+    display: flex;
+    margin: 30px 0px;
+}
+.big_one {
+    margin: 40px 20px;
+    width: 50%;
+    height: 450px;
+    background-color: red;
+    background-image: url(./foto/Meet\ Polls_large.png);
+    background-size: cover;
+
+}
+.many_small {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 450px;
+    margin: 35px 20px;
+}
+.people_1 {
+    background-color: red;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-image: url(https://mk-london.co.uk/sites/default/files/styles/viewspageimg/public/v_amerike_nazvali_camih_visokooplachivaemih_akterov.jpg?itok=R3gFy42K);
+    background-size: cover;
+}
+.people_2 {
+    background-color: red;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-image: url(https://3.bp.blogspot.com/-d3a91sCW-a8/VRrk1tLLg2I/AAAAAAAAAKw/KPYnhVNvC2k/s1600/620573005.jpg);
+    background-size: cover;
+}
+.people_3 {
+    background-color: red;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-image: url(https://cursorinfo.co.il/wp-content/uploads/2021/03/Duejn-Dzhonson_-ZHizn-kazalas-koshmarom-_-Skala-o-restlinge-i-kino-0-8-screenshot-1-1.jpg);
+    background-size: cover;
+}
+.people_4 {
+    background-color: red;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-image: url(https://img05.rl0.ru/afisha/e945x531q65i/s3.afisha.ru/mediastorage/c9/c9/297d3fcf00a44bec8edc6e53c9c9.jpg);
+    background-size: cover;
+}
+.people_5 {
+    background-color: red;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-image: url(https://d1uzk9o9cg136f.cloudfront.net/f/16783100/rc/2018/03/16/eb039e8e35b6023d5a981c4d8acdce59c5d61c85_xlarge.jpg);
+    background-size: cover;
+}
+.people_6 {
+    background-color: red;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-image: url(https://img2.goodfon.ru/wallpaper/nbig/d/86/ian-somerhalder-yen-7393.jpg);
+    background-size: cover;
+}
+.people_7 {
+    background-color: red;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-image: url(https://feme.ua/upload/medialibrary/703/100028.jpg);
+    background-size: cover;
+}
+.people_8 {
+    background-color: red;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-image: url(https://content1.promiflash.de/article-images/video_1080/tom-holland-lacht-2.jpg);
+    background-size: cover;
+}
+.people_9 {
+    background-color: red;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-image: url(https://observer.com/wp-content/uploads/sites/2/2020/09/GettyImages-1176437732.jpg?resize=635);
+    background-size: cover;
+}
